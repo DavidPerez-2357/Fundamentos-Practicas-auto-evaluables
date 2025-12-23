@@ -3,7 +3,7 @@
 Este repositorio contiene las prácticas autoevaluables de la asignatura **Fundamentos de Programación**.  
 Cada práctica se encuentra organizada en su propia carpeta e incluye su correspondiente enunciado y ejemplos de ejecución.
 
----
+</br>
 
 ## Índice de prácticas
 
@@ -35,7 +35,7 @@ Enlace:
 Enlace:  
 [Práctica 3 – Calendario](./practica3)
 
----
+</br>
 
 ## Estructura del repositorio
 
@@ -60,7 +60,7 @@ Fundamentos-Practicas-auto-evaluables
     ├── res3.txt
     └── README.md  
 ```
----
+</br>
 
 ## Consideraciones generales
 

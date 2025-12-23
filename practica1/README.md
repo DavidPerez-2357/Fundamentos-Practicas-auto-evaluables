@@ -7,7 +7,7 @@ Cada uno de los campos debe mostrarse en una línea distinta, respetando el orde
 
 Si la práctica incluye una cabecera como la mostrada en la **Figura 1**, el resultado de su ejecución deberá ser el indicado en la **Figura 2**.
 
----
+</br>
 
 ## Cabecera obligatoria del código fuente
 
@@ -52,7 +52,8 @@ Gonzalez
 jantonio.gonzalez@mimail.com
 ---------------------------------------------------------------
 ```
----
+
+</br>
 
 ## Observaciones
 

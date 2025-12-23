@@ -6,7 +6,7 @@ Se trata de realizar un programa que muestre por pantalla la hoja de calendario 
 
 El formato de la hoja de calendario deberá ajustarse exactamente al que se indica en la Figura 9, correspondiente al ejemplo del mes de Abril del año 2345.
 
----
+</br>
 
 ## Reglas de funcionamiento
 
@@ -18,7 +18,7 @@ El formato de la hoja de calendario deberá ajustarse exactamente al que se indi
 - Nunca debe existir un bucle indefinido solicitando repetidamente el mes y el año.
 - La cabecera del código fuente debe ser la misma que en la Práctica 2.
 
----
+</br>
 
 ## Ejemplo de ejecución (Figura 9)
 ```
@@ -36,7 +36,8 @@ LU MA MI JU VI SA DO
 25 26 27 28 29 30  .
  .  .  .  .  .  .  .
 ```
----
+
+</br>
 
 ## Observaciones
 

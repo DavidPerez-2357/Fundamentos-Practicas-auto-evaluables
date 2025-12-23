@@ -19,7 +19,7 @@ De fuera hacia dentro, los rombos se dibujan siguiendo este patrón cíclico:
 
 Y así sucesivamente hasta llegar al centro.
 
----
+</br>
 
 ## Reglas de funcionamiento
 
@@ -34,7 +34,7 @@ Y así sucesivamente hasta llegar al centro.
   - El tamaño es mayor que `20`
 - La cabecera del código fuente es la misma que en la Práctica 1.
 
----
+</br>
 
 ## Ejemplos de ejecución
 
@@ -123,7 +123,8 @@ Y así sucesivamente hasta llegar al centro.
         @.@
          @
 ```
----
+
+</br>
 
 ## Observaciones
 
